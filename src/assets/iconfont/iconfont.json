@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8371708",
+      "name": "MV",
+      "font_class": "MV",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "8517947",
+      "name": "vip",
+      "font_class": "vip",
+      "unicode": "e6f8",
+      "unicode_decimal": 59128
+    }
+  ]
+}
