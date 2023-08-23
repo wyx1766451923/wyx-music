@@ -87,8 +87,10 @@ const getPlaylist=()=>{
   })
 }
 onMounted(()=>{
-  getMyInfo()
-  getPlaylist()
+  if(loginStore.userId!=0){
+    getMyInfo()
+    getPlaylist()
+  }
 })
 </script>
 
