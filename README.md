@@ -19,7 +19,7 @@
 Vue3 / Vue Router / Element Plus / Axios / Pinia
 
 #### 页面效果预览图
-
+注意！不挂梯子图片可能不会显示
 ##### 首页
 
 ![image-20230823144414700](images/image-20230823144414700.png)
